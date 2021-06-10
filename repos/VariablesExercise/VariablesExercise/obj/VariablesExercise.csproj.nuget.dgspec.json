@@ -14,7 +14,7 @@
         "outputPath": "/Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/johnhiller/.config/NuGet/NuGet.Config"
+          "/Users/johnhiller/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

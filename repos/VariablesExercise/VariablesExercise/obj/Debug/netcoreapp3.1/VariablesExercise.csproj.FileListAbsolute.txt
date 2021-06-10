@@ -1,4 +1,3 @@
-/Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csprojAssemblyReference.cache
 /Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfoInputs.cache
 /Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfo.cs
 /Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csproj.CoreCompileInputs.cache
@@ -10,3 +9,4 @@
 /Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.dll
 /Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.pdb
 /Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.genruntimeconfig.cache
+/Users/johnhiller/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csproj.AssemblyReference.cache
