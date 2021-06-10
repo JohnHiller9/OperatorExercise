@@ -31,6 +31,12 @@ namespace OperatorExercise
             Console.WriteLine($"{a} / {b} = {quotient} remainder {remainder}");
 
 
+            //----------Exercise 2----------
+            //Create a method named circleArea that will calculate the area of a circle based on its radius.
+            var r = 20;
+            var pi = Math.PI;
+            var circleArea = pi * (r * r);
+            Console.WriteLine($"The area of a circle with radius {r} is {circleArea}");
         }
     }
 }
